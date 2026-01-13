@@ -53,6 +53,3 @@ _Add UI screenshots here if you have them._
 
 ---
 
-## 📌 Note
-
-For demonstration and portfolio purposes only.
