@@ -50,10 +50,6 @@ _Add UI screenshots here if you have them._
 
 ---
 
-## 🙌 Author
-
-Shyama Hadia — Flutter Developer | AI Enthusiast  
-
 
 ---
 
